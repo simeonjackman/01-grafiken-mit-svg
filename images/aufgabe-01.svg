@@ -1,3 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
-
+    <circle
+        cx="250"
+        cy="250"
+        r="100"
+        stroke="green"
+        stroke-width="10"
+        fill="yellow"
+        opacity="0.5"
+    />
+    <circle
+        cx="150"
+        cy="250"
+        r="100"
+        stroke="green"
+        stroke-width="10"
+        fill="yellow"
+        opacity="0.5"
+    />
 </svg>
